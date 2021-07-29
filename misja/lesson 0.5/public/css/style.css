@@ -1,0 +1,35 @@
+html {
+    font-size: 20px; 
+    font-family: 'Baloo Chettan 2', cursive;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #f700ff49;
+  }
+  header {
+    background-color: rgb(255, 0, 0);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  nav {
+    float: left;
+    width: 30%;
+    height: 300px;
+    background: #ccc;
+    padding: 20px;
+  }
